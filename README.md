@@ -1,4 +1,3 @@
-# Urbanization_prediction
 # Urbanization Prediction Using Machine Learning
 
 This project predicts the urbanization status of Indian states using machine learning techniques on socio-economic and land use data. The workflow includes data preprocessing, feature engineering, model training, and evaluation.
